@@ -19,9 +19,9 @@ Observador: [script](scripts/ejercicio1/SpheresGroup2.cs)
 
 ![ejercicio_2](gifs/ejercicio_2.gif)
 
-Notificador: [script](scripts/ejercicio1/Cube.cs)
-Observador: [script](scripts/ejercicio1/SpheresGroup1_2.cs)
-Observador: [script](scripts/ejercicio1/SpheresGroup2_2.cs)
+Notificador: [script](scripts/ejercicio2/Cube.cs)
+Observador: [script](scripts/ejercicio2/SpheresGroup1_2.cs)
+Observador: [script](scripts/ejercicio2/SpheresGroup2_2.cs)
 
 <br><br>
 
