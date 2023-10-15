@@ -28,3 +28,16 @@ Dentro del script:
 
 
 <br><br>
+
+- **c) Se pide que cuando el cubo se aproxime al cilindro, las esferas del grupo 1 cambien su color y salten y las esferas del grupo 2 se orienten hacia un objeto ubicado en la escena con ese propósito.**
+
+![ejercicio_3](gifs/ejercicio_3.gif)
+
+Para ello se han seguido los siguientes pasos:
+1. Creación de un [script](scripts/ejercicio1_script.cs) asociado al cubo (Ejercicio1_3).
+   
+Dentro del script:
+
+
+<br><br>
+
