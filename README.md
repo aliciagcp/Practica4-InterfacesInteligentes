@@ -7,11 +7,9 @@ Se han realizado varios ejercicios de eventos en unity:
 
 ![ejercicio_1](gifs/ejercicio_1.gif)
 
-Para ello se han seguido los siguientes pasos:
-1. Creación de un [script](scripts/ejercicio1_script.cs) asociado al cubo (Ejercicio1_3).
-   
-Dentro del script:
-
+Notificador: [script](scripts/ejercicio1/Cylinder.cs)
+Observador: [script](scripts/ejercicio1/SpheresGroup1.cs)
+Observador: [script](scripts/ejercicio1/SpheresGroup2.cs)
 
 <br><br>
 
@@ -21,11 +19,9 @@ Dentro del script:
 
 ![ejercicio_2](gifs/ejercicio_2.gif)
 
-Para ello se han seguido los siguientes pasos:
-1. Creación de un [script](scripts/ejercicio1_script.cs) asociado al cubo (Ejercicio1_3).
-   
-Dentro del script:
-
+Notificador: [script](scripts/ejercicio1/Cube.cs)
+Observador: [script](scripts/ejercicio1/SpheresGroup1_2.cs)
+Observador: [script](scripts/ejercicio1/SpheresGroup2_2.cs)
 
 <br><br>
 
