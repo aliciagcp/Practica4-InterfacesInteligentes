@@ -16,7 +16,8 @@ Dentro del script:
 <br><br>
 
 - **b) Se pide adaptar la escena anterior para que:**
-   + **Cuando el cubo colisiona con cualquier objeto que no sean esferas del grupo 1, las esferas en el grupo 1 se acercan al cilindro. Cuando el cubo toca cualquier esfera del grupo 1, las esferas del grupo 2 aumentan de tamaño.**
+   + **Cuando el cubo colisiona con cualquier objeto que no sean esferas del grupo 1, las esferas en el grupo 1 se acercan al cilindro.**
+   + **Cuando el cubo toca cualquier esfera del grupo 1, las esferas del grupo 2 aumentan de tamaño.**
 
 ![ejercicio_2](gifs/ejercicio_2.gif)
 
