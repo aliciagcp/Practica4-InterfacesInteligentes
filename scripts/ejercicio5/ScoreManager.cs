@@ -6,7 +6,7 @@ using TMPro;
 public class ScoreManager : MonoBehaviour
 {
     Notifier2 cube;
-    public int score = 0;
+    private int score = 0;
     TextMeshProUGUI scoreText;
  
     void Start()
