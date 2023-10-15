@@ -48,8 +48,8 @@ Observador: [script](scripts/ejercicio4/ScoreManager.cs)
 
 ![ejercicio_5](gifs/ejercicio_5.gif)
 
-Notificador: [script](scripts/ejercicio4/Notifier2.cs)
-Observador: [script](scripts/ejercicio4/ScoreManager.cs)
+Notificador: [script](scripts/ejercicio5/Notifier2.cs)
+Observador: [script](scripts/ejercicio5/ScoreManager.cs)
 
 <br><br>
 
