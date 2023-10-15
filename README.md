@@ -44,3 +44,12 @@ Observador: [script](scripts/ejercicio4/ScoreManager.cs)
 
 <br><br>
 
+- **e) Partiendo del script anterior crea una interfaz que muestre la puntuación que va obteniendo el cubo.**
+
+![ejercicio_5](gifs/ejercicio_5.gif)
+
+Notificador: [script](scripts/ejercicio4/Notifier2.cs)
+Observador: [script](scripts/ejercicio4/ScoreManager.cs)
+
+<br><br>
+
