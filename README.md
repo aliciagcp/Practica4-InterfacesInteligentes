@@ -53,3 +53,9 @@ Observador: [script](scripts/ejercicio5/ScoreManager.cs)
 
 <br><br>
 
+- **f) Genera una escena que incluya elementos que se ajusten a la escena del prototipo y alguna de las mecánicas anteriores.**
+
+![ejercicio_6](gifs/ejercicio_6.gif)
+
+Notificador: [script](scripts/ejercicio6/Notifier2.cs)
+Observador: [script](scripts/ejercicio6/ScoreManager.cs)
