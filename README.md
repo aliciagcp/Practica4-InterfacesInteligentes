@@ -33,7 +33,6 @@ Notificador: [script](scripts/ejercicio3/Notifier.cs)
 Observador: [script](scripts/ejercicio3/SpheresGroup1_3.cs)
 Observador: [script](scripts/ejercicio3/SpheresGroup2_3.cs)
 
-
 <br><br>
 
 - **d) Implementar la mecánica de recoger esferas en la escena que actualicen la puntuación del jugador. Las esferas de tipo 1 suman 5 puntos y las esferas de tipo 2 suman 10. Mostrar la puntuación en la consola.**
@@ -41,9 +40,7 @@ Observador: [script](scripts/ejercicio3/SpheresGroup2_3.cs)
 ![ejercicio_4](gifs/ejercicio_4.gif)
 
 Notificador: [script](scripts/ejercicio4/Notifier2.cs)
-Observador: [script](scripts/ejercicio4/SpheresGroup1_4.cs)
-Observador: [script](scripts/ejercicio4/SpheresGroup2_4.cs)
-
+Observador: [script](scripts/ejercicio4/ScoreManager.cs)
 
 <br><br>
 
