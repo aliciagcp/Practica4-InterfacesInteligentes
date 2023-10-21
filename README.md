@@ -59,3 +59,5 @@ Observador: [script](scripts/ejercicio5/ScoreManager.cs)
 
 Notificador: [script](scripts/ejercicio6/Notifier2.cs)
 Observador: [script](scripts/ejercicio6/ScoreManager.cs)
+
+Se han añadido nuevos objetos que actúan como minas en el juego. Estos al entrar en contacto con el cubo lo hacen volar por los aires y le restan 3 puntos en el contador. Por otra parte, el cubo al recoger una esfera cambia su material al de la esfera recogida.
